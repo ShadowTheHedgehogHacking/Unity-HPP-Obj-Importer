@@ -1,0 +1,10 @@
+# Exported by Heroes Power Plant
+
+newmtl colmat_10000000
+Kd 0.2509804 0.5372549 0.7882353
+d 1.0
+
+newmtl colmat_20000000
+Kd 0.8 0 0
+d 1.0
+
